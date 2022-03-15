@@ -1,4 +1,3 @@
-<p align="center">
 ### Polynomial Regression on the confirmed cases of COVID-19time series dataset
 
 Between 2011 and 2018, the World Health Organization (WHO) tracked 1483 epidemic events in 172 countries (GPMB,2019 A World at Risk: Annual report on global preparedness for health emergencies). Epidemic-prone diseases such as influenza, Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS), Ebola, Zika, and the current pandemic of COVID-19 highlight the importance of global coordination mechanisms that can monitor the spread of pathogens and the necessity of tools that can infer the true state of a pandemic using down sampled data that imperfectly represent the true amount of the population being infected by the pathogen. 
@@ -44,5 +43,3 @@ In the case of the COVID-19 time series dataset, the Poisson regression model di
 
 #### Conclusions
 The ARIMA models can do reliable predictions for countries that are coming out of the exponential phase and have more complicated curves where plateau phases or steeper/slower increase are present. There are cases where the ARIMA models do not work well and simpler models such as polynomial regression can do more precise predictions.
-    
-</p>
